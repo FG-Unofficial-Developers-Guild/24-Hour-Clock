@@ -1,3 +1,5 @@
+[![Luacheck](https://github.com/FG-Unofficial-Developers-Guild/24-Hour-Clock/actions/workflows/luacheck.yml/badge.svg)](https://github.com/FG-Unofficial-Developers-Guild/24-Hour-Clock/actions/workflows/luacheck.yml)
+
 # 24 Hour Clock
 
 Changes the Fantasy Grounds clock format from AM-PM to 00-23h
