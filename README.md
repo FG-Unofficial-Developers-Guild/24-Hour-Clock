@@ -6,6 +6,6 @@ Created by Alanrockid, updated by bmos
 
 ## Compatibility and Instructions
 
-This extension has been tested with FantasyGrounds Unity v4.4.3(2023-09-30).
+This extension has been tested with FantasyGrounds Unity v4.5.10 (2024-08-13).
 
 It should work with any CoreRPG based rulesets, as long as calendar module is activated.
