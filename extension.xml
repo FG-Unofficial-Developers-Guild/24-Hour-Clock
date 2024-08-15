@@ -1,0 +1,14 @@
+<root version="3.0">
+  <properties>
+    <name>24 Hour Clock</name>
+    <version>1.2</version>
+    <author>Alanrockid</author>
+    <description>Adjust the in game clock to the 00-23h format</description>
+    <ruleset>Any</ruleset>
+    <loadorder>9999</loadorder>
+  </properties>
+
+  <base>
+    <script name="CalendarManager" file="scripts/manager_calendar.lua"/>
+  </base>
+</root>
