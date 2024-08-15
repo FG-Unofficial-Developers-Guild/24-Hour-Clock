@@ -8,6 +8,8 @@
     <loadorder>9999</loadorder>
   </properties>
 
+  <announcement text="24 Hour Clock v1.2:\rAdjust the in game clock to the 00-23h format." icon="module_loaded" font="emotefont"/>
+
   <base>
     <script name="CalendarManager" file="scripts/manager_calendar.lua"/>
   </base>
