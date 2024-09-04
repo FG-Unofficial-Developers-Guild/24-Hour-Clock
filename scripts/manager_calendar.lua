@@ -1,5 +1,5 @@
--- 
--- Please see the license.html file included with this distribution for 
+--
+-- Please see the license.html file included with this distribution for
 -- attribution and copyright information.
 --
 
@@ -14,7 +14,7 @@ end
 
 local getTimeString_old;
 local function getTimeString(nHour, nMinute, ...)
-	sTimeString = getTimeString_old(nHour, nMinute, ...)
+	local sTimeString = getTimeString_old(nHour, nMinute, ...)
 	return StringManager.trim(sTimeString)
 end
 
